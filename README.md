@@ -4,8 +4,9 @@ A production-grade reinforcement learning project showcasing Deep Q-Network (DQN
 
 ## 🎮 Project Demo
 
-▶️ **Watch the trained DQN agent play Chubby Bird:**  
-[Chubby Bird AI Gameplay Demo](https://youtu.be/2tcEPlWI3Kg)
+[![Chubby Bird AI Gameplay](https://img.youtube.com/vi/2tcEPlWI3Kg/0.jpg)](https://youtu.be/2tcEPlWI3Kg "Click to play on YouTube")
+
+Click the image to watch the trained DQN agent in action!
 
 This video demonstrates the final trained agent interacting with the environment in real time.  
 You can observe decision making, food collection behavior, gravity handling, and failure cases learned through reinforcement learning.
@@ -321,3 +322,4 @@ MIT License - Use freely for learning and development.
 
 
 ---
+
