@@ -2,6 +2,14 @@
 
 A production-grade reinforcement learning project showcasing Deep Q-Network (DQN) training in a custom 2D game environment. This repository demonstrates the complete ML pipeline: problem formulation, state/reward design, agent training, and competitive gameplay.
 
+## 🎮 Project Demo
+
+▶️ **Watch the trained DQN agent play Chubby Bird:**  
+[Chubby Bird AI Gameplay Demo](https://youtu.be/2tcEPlWI3Kg)
+
+This video demonstrates the final trained agent interacting with the environment in real time.  
+You can observe decision making, food collection behavior, gravity handling, and failure cases learned through reinforcement learning.
+
 ## 📊 Project Overview
 
 **Chubby Bird** is not just a game—it's a reinforcement learning environment where an AI agent learns optimal decision-making through self-play. The agent learns to navigate a dynamic 2D space, collect time-sensitive targets, and maximize survival time.
@@ -310,5 +318,6 @@ MIT License - Use freely for learning and development.
 - Inspired by Flappy Bird and DQN paper ([Human-level control through deep RL](https://www.nature.com/articles/nature14236))
 - Thanks to Pygame community for excellent documentation
 - PyTorch team for intuitive deep learning APIs
+
 
 ---
